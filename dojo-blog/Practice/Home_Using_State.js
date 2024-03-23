@@ -1,3 +1,5 @@
+// This shows how to use State Hooks
+
 import { useState } from 'react';
 
 const Home = () => {
